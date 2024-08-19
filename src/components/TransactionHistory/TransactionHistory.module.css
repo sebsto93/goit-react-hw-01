@@ -1,6 +1,7 @@
 .transactionHistory {
   width: 500px;
   border-collapse: collapse;
+  margin: 0 auto;
 }
 
 .transactionHistory th,
